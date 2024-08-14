@@ -33,6 +33,14 @@ Encriptador de Texto es una aplicación web sencilla y fácil de usar que te per
 Cuanto oprimas el botón copiar aparecerá una alerta como esta:
 ![screenshot4](https://github.com/Kevinnra/ENCRIPTADOR-DE-TEXTO/blob/6123aecde65ebfe955a2be55568f726a3d5391f5/docs/assets/aa2.png)
 
+## DIY 🛠️ Do it Yourself!! / Pruebalo tu mismo !!  🛠️
+**Sigue el Link**
+ ![link-encriptador](https://kevinnra.github.io/ENCRIPTADOR-DE-TEXTO/)
+ **Escanea el codigo QR**
+             ![QRcode](https://github.com/Kevinnra/ENCRIPTADOR-DE-TEXTO/blob/9203c76c68c9bb4efc602cefc2b0a1d87bfd65c3/docs/assets/qrcode.png)
+ 
+
+
 
 ## 🤝 Contribuciones
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar esta herramienta, haz un fork del repositorio y envía tus pull requests. 🛠️💡

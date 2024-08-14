@@ -14,6 +14,7 @@
     padding: 1rem;
     margin-top: 1rem;
 }
+
 body{
     background-color: var(--color-primario);
     margin: 0;
@@ -42,7 +43,6 @@ main > :last-child{
     padding: 3%;
     margin-left: 10%;
     background-color: var(--color-primario);
-    
 }
 
 .lado__izquierdo > :.encriptar, .desencriptar{
@@ -245,5 +245,4 @@ footer {
     .btn__copiar{
         width: 100%;
     }
-
 }

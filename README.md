@@ -3,13 +3,20 @@ Encriptador de Texto es una aplicación web sencilla y fácil de usar que te per
 ![Separador](https://github.com/Kevinnra/ENCRIPTADOR-DE-TEXTO/blob/2aadc9d7772efe39405d12ee1dadeb8cbe72a6cf/docs/assets/Screenshot%202024-08-14%20at%205.35.27%E2%80%AFPM.png)
 ## 🌟 Características
 **🔏 Encriptación y Desencriptación:** Convierte tu texto en una versión encriptada que solo puede ser revertida mediante la desencriptación.
+
 **✅ Validación de Entrada:** Asegura que el texto esté en minúsculas, sin acentos ni caracteres especiales, garantizando un proceso seguro y confiable.
+
 **🎨 Interfaz Intuitiva:** Diseño limpio y moderno, con botones fáciles de usar para encriptar, desencriptar y copiar texto.
+
 **📱 Compatibilidad:** Funciona perfectamente en diferentes tamaños de pantalla y dispositivos.
+
 ## 🚀 Tecnologías Utilizadas
 **🌐 HTML5 & CSS3:** Estructura y diseño visual.
+
 **⚙️ JavaScript:** Lógica de encriptación y validación de datos.
+
 **🖥️ GitHub Pages:** Implementación y alojamiento de la aplicación.
+
 ## 📝 Instrucciones de Uso
 **✍️ Ingresar Texto:** Escribe o pega el texto que deseas encriptar en el campo de entrada.
 

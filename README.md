@@ -1,6 +1,6 @@
 ## 🛡️ Encriptador de Texto 🔒 ![Badge](https://img.shields.io/badge/Seguridad%20Alta-brightgreen?style=for-the-badge&logo=shield)
 Encriptador de Texto es una aplicación web sencilla y fácil de usar que te permite encriptar y desencriptar mensajes de texto. ¡Mantén la privacidad y seguridad de tu información! 💌🔐
-![Separador]([https://github.com/Kevinnra/ENCRIPTADOR-DE-TEXTO/blob/main/assets/Screenshot%202024-08-14%20at%205.35.27%E2%80%AFPM.png](https://github.com/Kevinnra/ENCRIPTADOR-DE-TEXTO/blob/main/docs/assets/Screenshot%202024-08-14%20at%205.35.27%E2%80%AFPM.png)
+![Separador]([https://github.com/Kevinnra/ENCRIPTADOR-DE-TEXTO/blob/main/assets/Screenshot%202024-08-14%20at%205.35.27%E2%80%AFPM.png)
 ## 🌟 Características
 **🔏 Encriptación y Desencriptación:** Convierte tu texto en una versión encriptada que solo puede ser revertida mediante la desencriptación.
 **✅ Validación de Entrada:** Asegura que el texto esté en minúsculas, sin acentos ni caracteres especiales, garantizando un proceso seguro y confiable.

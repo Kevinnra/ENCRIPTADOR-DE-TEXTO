@@ -35,6 +35,7 @@ Cuanto oprimas el botón copiar aparecerá una alerta como esta:
 
 ## DIY 🛠️ Do it Yourself!! / Pruebalo tu mismo !!  🛠️
 **Sigue el Link**
+
 https://kevinnra.github.io/ENCRIPTADOR-DE-TEXTO/
 
  **Escanea el codigo QR**

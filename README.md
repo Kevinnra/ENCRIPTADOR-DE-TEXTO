@@ -12,8 +12,11 @@ Encriptador de Texto es una aplicación web sencilla y fácil de usar que te per
 **🖥️ GitHub Pages:** Implementación y alojamiento de la aplicación.
 ## 📝 Instrucciones de Uso
 **✍️ Ingresar Texto:** Escribe o pega el texto que deseas encriptar en el campo de entrada.
+
 **🔄 Encriptar/Desencriptar:** Selecciona la opción deseada para transformar el texto.
+
 **📋 Copiar Texto:** Utiliza el botón "Copiar" para llevar el texto encriptado o desencriptado al portapapeles.
+
 ## 🤝 Contribuciones
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar esta herramienta, haz un fork del repositorio y envía tus pull requests. 🛠️💡
 

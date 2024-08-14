@@ -8,6 +8,7 @@ function verificarInput(texto){
     var regex = /^[a-z\s]*$/;
     if (!regex.test(text)) {
         alert("Por favor ingresa solo letras minúsculas y sin acentos o caracteres especiales.");
+        location.reload();
         return;
     }
 

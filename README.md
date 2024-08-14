@@ -21,9 +21,18 @@ Encriptador de Texto es una aplicación web sencilla y fácil de usar que te per
 **✍️ Ingresar Texto:** Escribe o pega el texto que deseas encriptar en el campo de entrada.
 ![screenshot1](https://github.com/Kevinnra/ENCRIPTADOR-DE-TEXTO/blob/a19101797143ffe64c4277fca135dff1c26f447d/docs/assets/ss1.png)
 
-**🔄 Encriptar/Desencriptar:** Selecciona la opción deseada para transformar el texto.
+**‼️ Error en el formato de Texto:** Si el texto ingresado contiene  minúsculas, acentos o caracteres especiales recibiras una alerta como la siguiente y la página se actualizará automaticamente para recibir un texto nuevo con las condiciones estipuladas:
+![screenshot1](https://github.com/Kevinnra/ENCRIPTADOR-DE-TEXTO/blob/6123aecde65ebfe955a2be55568f726a3d5391f5/docs/assets/aa1.png)
 
-**📋 Copiar Texto:** Utiliza el botón "Copiar" para llevar el texto encriptado o desencriptado al portapapeles.
+**🔄 Encriptar/Desencriptar:** Selecciona la opción deseada para transformar el texto. En este caso el texto ya se encuentra encriptado asi que presionamos Desencriptar:
+![screenshot2](https://github.com/Kevinnra/ENCRIPTADOR-DE-TEXTO/blob/6123aecde65ebfe955a2be55568f726a3d5391f5/docs/assets/ss3.png)
+
+**📋 Copiar Texto:** Utiliza el botón "Copiar" para llevar el texto encriptado o desencriptado al portapapeles. Además el area para ingresar el texto se limpiará automáticamente:
+![screenshot3](https://github.com/Kevinnra/ENCRIPTADOR-DE-TEXTO/blob/6123aecde65ebfe955a2be55568f726a3d5391f5/docs/assets/ss4.png)
+
+Cuanto oprimas el botón copiar aparecerá una alerta como esta:
+![screenshot4](https://github.com/Kevinnra/ENCRIPTADOR-DE-TEXTO/blob/6123aecde65ebfe955a2be55568f726a3d5391f5/docs/assets/aa2.png)
+
 
 ## 🤝 Contribuciones
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar esta herramienta, haz un fork del repositorio y envía tus pull requests. 🛠️💡
